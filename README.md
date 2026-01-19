@@ -1,4 +1,8 @@
+# StandX Maker Bot
+
 > 📢 **关注 Twitter: [@Nadiinn5](https://twitter.com/Nadiinn5)** 获取更多机器人和工具！
+
+> 🎁 **注册获得 5% 奖励加成**: [https://standx.com/referral?code=777777yy](https://standx.com/referral?code=777777yy)
 
 **版本**: v6.2.0
 
@@ -45,8 +49,6 @@ npm start
     -   **命令行**: `npm run multi` (所有账户在同一窗口)
 
 ## 📊 策略模式
-
-启动时可选择以下模式：
 
 ### 1. 网格模式 + 激进 (推荐)
 -   积分效率: **100%** + Maker Uptime 奖励
